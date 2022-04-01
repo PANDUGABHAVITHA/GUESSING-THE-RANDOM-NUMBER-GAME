@@ -1,0 +1,37 @@
+Please enter you name
+ANDREW
+WELCOME!!!ANDREW
+
+HOPE YOU WILL BE HAVING FUN
+
+Computer generating a random number between 0 and 100
+Now the game starts!
+You have 5 chances to guess the number
+
+GOOD LUCK!!!
+
+Guess the number between 0 and 100
+68
+Your guess is lower than the computer generated number
+You have more 4 chances left to win the game4
+Guess the number between 0 and 100
+90
+
+Your guess is higher than the computer generated number
+You have more 3 chances left to win the game
+Guess the number between 0 and 100
+70
+
+Your guess is lower than the computer generated number
+You have more 2 chances left to win the game2
+Guess the number between 0 and 100
+86
+
+Your guess is higher than the computer generated number
+You have more 1 chances left to win the game
+Guess the number between 0 and 100
+84
+
+CONGRATULATIONS!!! You guessed the number 84
+
+[Program finished]
